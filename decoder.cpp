@@ -11,7 +11,7 @@ int i;
 int j;
 int charsTranslated;
 int count = 0;
-vector<char> english = {'a'};
+vector<char> english = {'a', 'b'};
 vector<string> morse = {"b"};
 
 char GetInput(string &inputFile, string &outputFile);
