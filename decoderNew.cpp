@@ -72,7 +72,7 @@ int main(){
             exit(-1);
         }
 
-    cout << outputText << endl;
+    cout << outputText << endl << "Characters translated: " << charsTranslated << endl;
 
     return 0;
 }
